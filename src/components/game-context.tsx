@@ -42,7 +42,7 @@ const level1Items: ItemType[] = [
     type: "plastico",
     found: true,
     sorted: false,
-    image: "/placeholder.svg?height=80&width=40",
+    image: "https://biopoliyuca.com/cdn/shop/files/BOTELLA250ML.png?v=1704736538&width=1946",
     position: { x: 20, y: 30 },
     description: "Las botellas de plástico tardan hasta 500 años en degradarse",
   },
@@ -52,7 +52,7 @@ const level1Items: ItemType[] = [
     type: "papel",
     found: true,
     sorted: false,
-    image: "/placeholder.svg?height=80&width=80",
+    image: "https://static.vecteezy.com/system/resources/previews/012/375/457/non_2x/blank-notebook-paper-sheet-with-lines-png.png",
     position: { x: 40, y: 20 },
     description: "El papel puede reciclarse hasta 7 veces antes de perder calidad",
   },
@@ -62,7 +62,7 @@ const level1Items: ItemType[] = [
     type: "organico",
     found: true,
     sorted: false,
-    image: "/placeholder.svg?height=60&width=80",
+    image: "https://cdn3d.iconscout.com/3d/premium/thumb/cascara-de-platano-8113563-6578261.png?f=webp",
     position: { x: 60, y: 25 },
     description: "Los residuos orgánicos pueden convertirse en compost",
   },
@@ -72,7 +72,7 @@ const level1Items: ItemType[] = [
     type: "plastico",
     found: true,
     sorted: false,
-    image: "/placeholder.svg?height=70&width=50",
+    image: "https://agrinsa.com.gt/wp-content/uploads/2023/12/Yogurt-natural-litro-envase-plastico-1.png",
     position: { x: 80, y: 30 },
     description: "Los envases de yogurt son reciclables si están limpios",
   },
@@ -82,7 +82,7 @@ const level1Items: ItemType[] = [
     type: "papel",
     found: true,
     sorted: false,
-    image: "/placeholder.svg?height=70&width=60",
+    image: "https://grupotucan.com/media/catalog/product/cache/1/image/530x/040ec09b1e35df139433887a97daa66f/i/m/img_0034.png",
     position: { x: 30, y: 60 },
     description: "Reciclar una tonelada de papel salva 17 árboles",
   },
@@ -92,7 +92,7 @@ const level1Items: ItemType[] = [
     type: "organico",
     found: true,
     sorted: false,
-    image: "/placeholder.svg?height=60&width=60",
+    image: "https://png.pngtree.com/png-vector/20241117/ourmid/pngtree-realistic-red-apple-clipart-with-bite-mark-and-leaf-high-quality-png-image_14460304.png",
     position: { x: 70, y: 50 },
     description: "Las frutas se descomponen naturalmente en 2-5 semanas",
   },
@@ -106,7 +106,7 @@ const level2Items: ItemType[] = [
     type: "plastico",
     found: true,
     sorted: false,
-    image: "/placeholder.svg?height=70&width=80",
+    image: "https://dwism5cwvtbn6.cloudfront.net/eyJidWNrZXQiOiJlc3RyYXRlZ2lhLXdlYiIsImtleSI6InByb2R1Y3RzLzUwOTI0L2ltYWdlbi1ib2xzYS1ibGFuY2EtcGFyYS1wYXBlbGVyYS1wYXEteC0xMC11bmQtMTI3MzE2NS04MDAtNjAwLTEtNzUtcmVtb3ZlYmctcHJldmlldy1wbmctMjAyMS0xMS0yMi0wOS0wOC00Mi5wbmciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEwMDB9fX0=",
     position: { x: 25, y: 35 },
     description: "Las bolsas plásticas pueden tardar hasta 1000 años en degradarse",
   },
@@ -116,7 +116,7 @@ const level2Items: ItemType[] = [
     type: "papel",
     found: true,
     sorted: false,
-    image: "/placeholder.svg?height=80&width=90",
+    image: "https://productos.larepublica.co/_nuxt/img/cover-edictos-2024.ef93df9.png",
     position: { x: 45, y: 25 },
     description: "El papel de periódico es uno de los más fáciles de reciclar",
   },
@@ -126,7 +126,7 @@ const level2Items: ItemType[] = [
     type: "organico",
     found: true,
     sorted: false,
-    image: "/placeholder.svg?height=65&width=75",
+    image: "https://www.deltatrak.com/images/solution-pages/food-safety/holding-2.tny.png",
     position: { x: 65, y: 30 },
     description: "Los restos de comida generan metano en los vertederos",
   },
@@ -136,7 +136,7 @@ const level2Items: ItemType[] = [
     type: "plastico",
     found: true,
     sorted: false,
-    image: "/placeholder.svg?height=85&width=45",
+    image: "https://png.pngtree.com/png-clipart/20241020/original/pngtree-essential-shampoo-bottle-quality-hair-care-solutions-png-image_16420831.png",
     position: { x: 85, y: 40 },
     description: "Las botellas de champú son reciclables, pero debes enjuagarlas primero",
   },
@@ -146,7 +146,7 @@ const level2Items: ItemType[] = [
     type: "papel",
     found: true,
     sorted: false,
-    image: "/placeholder.svg?height=75&width=75",
+    image: "https://www.vilapack.com/wp-content/uploads/2024/02/cajas-de-carton-estandar.png",
     position: { x: 35, y: 55 },
     description: "El cartón puede reciclarse hasta 25 veces",
   },
@@ -156,7 +156,7 @@ const level2Items: ItemType[] = [
     type: "organico",
     found: true,
     sorted: false,
-    image: "/placeholder.svg?height=60&width=65",
+    image: "https://png.pngtree.com/png-clipart/20250302/original/pngtree-set-of-orange-peels-isolated-on-a-white-background-png-image_20552023.png",
     position: { x: 75, y: 60 },
     description: "Las cáscaras de naranja pueden usarse para hacer productos de limpieza",
   },
@@ -170,7 +170,7 @@ const level3Items: ItemType[] = [
     type: "plastico",
     found: true,
     sorted: false,
-    image: "/placeholder.svg?height=75&width=50",
+    image: "https://bolsaselindio.com.co/wp-content/uploads/2017/06/vaso.png",
     position: { x: 15, y: 25 },
     description: "Los vasos desechables suelen estar hechos de poliestireno, difícil de reciclar",
   },
@@ -180,7 +180,7 @@ const level3Items: ItemType[] = [
     type: "papel",
     found: true,
     sorted: false,
-    image: "/placeholder.svg?height=70&width=85",
+    image: "https://assets.blurb.com/pages/website-assets/magazine/Magazine_Lane3_Row1-e27e6b3dfc4949ef0601ae11ce873fb0fce436a3c989c1e2a726b969f8197609.png",
     position: { x: 35, y: 15 },
     description: "Las revistas tienen un papel especial que puede reciclarse",
   },
@@ -190,7 +190,7 @@ const level3Items: ItemType[] = [
     type: "organico",
     found: true,
     sorted: false,
-    image: "/placeholder.svg?height=55&width=70",
+    image: "https://png.pngtree.com/png-clipart/20240310/original/pngtree-dry-leaves-png-image_14561546.png",
     position: { x: 55, y: 20 },
     description: "Las hojas secas son excelentes para el compostaje",
   },
@@ -200,7 +200,7 @@ const level3Items: ItemType[] = [
     type: "plastico",
     found: true,
     sorted: false,
-    image: "/placeholder.svg?height=65&width=65",
+    image: "https://static.vecteezy.com/system/resources/previews/046/594/783/non_2x/truck-plastic-toy-free-png.png",
     position: { x: 75, y: 35 },
     description: "Muchos juguetes de plástico no son reciclables por sus componentes mixtos",
   },
@@ -210,7 +210,7 @@ const level3Items: ItemType[] = [
     type: "papel",
     found: true,
     sorted: false,
-    image: "/placeholder.svg?height=60&width=80",
+    image: "https://drafperu.com/wp-content/uploads/2025/01/sobre-de-papel-kraft-3.webp",
     position: { x: 25, y: 65 },
     description: "Los sobres pueden reciclarse, pero retira primero las ventanas de plástico",
   },
@@ -220,7 +220,7 @@ const level3Items: ItemType[] = [
     type: "organico",
     found: true,
     sorted: false,
-    image: "/placeholder.svg?height=55&width=55",
+    image: "https://png.pngtree.com/png-clipart/20240308/original/pngtree-the-coffee-grounds-particle-isolated-png-image_14535096.png",
     position: { x: 65, y: 55 },
     description: "Los posos de café son excelentes para el jardín como fertilizante",
   },
@@ -254,29 +254,30 @@ export function GameProvider({ children }: { children: ReactNode }) {
   }
 
   const sortItem = (id: number, binType: string) => {
-    const item = items.find((item) => item.id === id)
+    setItems(prevItems => {
+      const item = prevItems.find(item => item.id === id);
+      if (!item) return prevItems;
 
-    if (!item) return false
+      const isCorrect = item.type === binType;
 
-    const isCorrect = item.type === binType
+      // Actualizar puntaje
+      if (isCorrect) {
+        setScore(prevScore => prevScore + 100);
+      } else {
+        setScore(prevScore => Math.max(0, prevScore - 50));
+      }
 
-    if (isCorrect) {
-      setScore(score + 100)
-      setItems(items.map((item) => (item.id === id ? { ...item, sorted: true } : item)))
-    } else {
-      setScore(Math.max(0, score - 50))
-    }
+      // Guardar el último item clasificado
+      setLastSortedItem({ id, correct: isCorrect });
 
-    // Guardar el último item clasificado y si fue correcto
-    setLastSortedItem({ id, correct: isCorrect })
+      // Actualizar items manteniendo los cambios previos
+      return prevItems.map(item =>
+        item.id === id ? { ...item, sorted: isCorrect } : item
+      );
+    });
 
-    // Limpiar el estado después de un tiempo
-    setTimeout(() => {
-      setLastSortedItem(null)
-    }, 2000)
-
-    return isCorrect
-  }
+    return isCorrect;
+  };
 
   const resetGame = () => {
     setItems(level1Items)
